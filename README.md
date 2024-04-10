@@ -10,12 +10,12 @@ One of the first simple apps I created while on my journey to learn flutter.
 
 
 ##### Download APK
-<pre><a href="https://github.com/ishandeveloper/Chatter-App/raw/master/app.apk">https://github.com/ishandeveloper/Chatter-App/raw/master/app.apk</a></pre>
+<pre><a href="https://github.com/Yosef781227/Chatter-App/raw/master/app.apk">https://github.com/Yosef781227/Chatter-App/raw/master/app.apk</a></pre>
 
 
 ### Demo
 
-  <img src="https://github.com/ishandeveloper/Chatter-App/blob/master/Screenshots/demo.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Chatter-App/blob/master/Screenshots/1.jpg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Chatter-App/blob/master/Screenshots/animate.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Chatter-App/blob/master/Screenshots/2.jpg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Chatter-App/blob/master/Screenshots/3.jpg?raw=false" width="30%">
+  <img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/demo.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/1.jpg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/animate.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/2.jpg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/3.jpg?raw=false" width="30%">
   
   
 ### Dependencies
@@ -40,7 +40,7 @@ One of the first simple apps I created while on my journey to learn flutter.
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/ishandeveloper/Chatter-App.git
+git clone https://github.com/Yosef781227/Chatter-App.git
 ```
   ##### Move to the desired folder
 ```bash
@@ -62,7 +62,7 @@ flutter run
 
 ### How to make a Pull Request:
 
-**1.** Fork [this](https://github.com/ishandeveloper/Chatter-App) repository.
+**1.** Fork [this](https://github.com/Yosef781227/Chatter-App) repository.
 
 **2.** Clone the forked repository.
 
@@ -98,7 +98,7 @@ git push -u origin development
 
 **8.** Create a Pull Request!
 
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chatter App]  (https://github.com/ishandeveloper/Chatter-App) project.
+**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chatter App]  (https://github.com/Yosef781227/Chatter-App) project.
 
 
 ## Tasks and Features
@@ -114,7 +114,7 @@ git push -u origin development
 
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+##### Made with ♥ by <a href="https://github.com/Yosef781227">Yosef781227</a>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Yosef781227)
