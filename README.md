@@ -9,13 +9,7 @@ It uses Firebase Cloud Firestore as well as the Firebase authentication package 
 One of the first simple apps I created while on my journey to learn flutter.
 
 
-##### Download APK
-<pre><a href="https://github.com/Yosef781227/Chatter-App/raw/master/app.apk">https://github.com/Yosef781227/Chatter-App/raw/master/app.apk</a></pre>
 
-
-### Demo
-
-  <img src="https://github.com/Yosef781227/Chatter-App/blob/master/Screenshots/demo.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Yosef781227/Chatter-A
   
   
 ### Dependencies
@@ -117,4 +111,3 @@ For help getting started with Flutter, view the online documentation, which offe
 ##### Made with ♥ by <a href="https://github.com/Yosef781227">Yosef781227</a>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Yosef781227)
