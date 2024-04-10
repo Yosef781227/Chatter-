@@ -92,7 +92,7 @@ git push -u origin development
 
 **8.** Create a Pull Request!
 
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chatter App]  (https://github.com/Yosef781227/Chatter-App) project.
+**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chatter App]  (https://github.com/Yosef781227/Chatter) project.
 
 
 ## Tasks and Features
