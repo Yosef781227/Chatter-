@@ -1,4 +1,4 @@
-<img src="./Screenshots/mockup.png" width="100%">
+
 
 # Chatter App
 
